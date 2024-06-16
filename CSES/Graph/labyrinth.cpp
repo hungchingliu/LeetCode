@@ -2,6 +2,7 @@
 #include <limits>
 #include <queue>
 
+// Todo: rewrite with vector
 class Solution {
   public:
     Solution() {
